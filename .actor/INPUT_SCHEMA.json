@@ -1,0 +1,14 @@
+{
+    "title": "YouTube Video Download API",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "usernames": {
+            "title": "What video would you like to download?",
+            "type": "string",
+            "description": "The full URL of the video from YouTube.",
+            "editor": "textfield"
+        }
+    },
+    "required": ["url"]
+}
