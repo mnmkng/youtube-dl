@@ -48,6 +48,7 @@ youtube-dl.zsh
 
 tmp/
 venv/
+apify_storage/
 
 # VS Code related files
 .vscode
